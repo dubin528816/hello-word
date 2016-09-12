@@ -1,2 +1,6 @@
 # hello-word
-Just another reposltory
+
+HI HitGub
+
+ I love programming , we hope it can give me a surprise!
+
